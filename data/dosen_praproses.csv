@@ -1008,7 +1008,7 @@ NIP,nama,Stat.Peg,Gol,Jabatan Fungsional,Pendidikan Terakhir,Fakultas,Kode Prodi
 197906062005022015,"Winti Ananthia, S.Pd., M.Ed.",PNS,III/c,Lektor,S2,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),5994974.0,Perempuan,43,144.0,25.0,0.0,3.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,58.0,46.0,18.0,0.0,0.0,0.0
 198211172006042001,"Novi Yanthi, S.Si., M.Pd.",PNS,III/c,Lektor,S2,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),6004309.0,Perempuan,39,101.0,42.0,0.0,2.0,,0.0,0.0,,0.0,2.0,,0.0,0.0,0.0,35.0,28.0,15.0,0.0,0.0,0.0
 198110312010122003,"Endah Silawati, S.Pd., M.Pd.",PNS,III/c,Lektor,S2,Kampus UPI di Cibiru,86280.0,PGPAUD Kampus Cibiru (S1),6004067.0,Perempuan,40,76.0,19.0,0.0,4.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,44.0,58.0,13.0,1.0,0.0,0.0
-198301132009121005,HANA RUWAIDAH,PNS,III/c,Lektor,S2,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),6675247.0,Laki-laki,39,1822.0,308.0,0.0,141.0,,0.0,740.0,,0.0,0.0,,0.0,0.0,0.0,2053.0,107985.0,0.0,0.0,0.0,0.0
+198301132009121005,"Hana Yunansah, M.Pd.",PNS,III/c,Lektor,S2,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),5988891.0,Laki-laki,39,389.0,250.0,0.0,8.0,0.0,0.0,7.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,46.0,699.0,26.0,1.0,0.0,0.0
 197708202005012017,"Dr. Kurniawati, S.Pd., M.Pd.",PNS,III/b,Asisten Ahli,S3,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),6006759.0,Perempuan,45,237.0,77.0,0.0,1.0,,0.0,0.0,,0.0,1.0,,0.0,0.0,0.0,16.0,3.0,2.0,0.0,0.0,0.0
 198907292018032001,"Nurul Hidayah, M.Pd.",PNS,III/b,Asisten Ahli,S2,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),6682318.0,Perempuan,33,117.0,20.0,0.0,0.0,,0.0,0.0,,0.0,1.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 198912242019032023,"Mirawati, S.Pd., M.Pd.",PNS,III/b,Asisten Ahli,S2,Kampus UPI di Cibiru,86280.0,PGPAUD Kampus Cibiru (S1),5982881.0,Perempuan,32,197.0,105.0,0.0,5.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,4.0,0.0,0.0,35.0,70.0,16.0,1.0,0.0,0.0
@@ -1128,10 +1128,8 @@ NIP,nama,Stat.Peg,Gol,Jabatan Fungsional,Pendidikan Terakhir,Fakultas,Kode Prodi
 198407032018032001,"Rr. Deni Widjayatri, M.Pd.",PNS,III/b,Asisten Ahli,S2,Kampus UPI di Serang,86282.0,PGPAUD Kampus Serang (S1),6694553.0,Perempuan,38,67.0,26.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,31.0,16.0,6.0,0.0,0.0,0.0
 197809222014091003,"Budhi Tristyanto, S.Pd., M.Pd.",PNS,III/b,Asisten Ahli,S2,Kampus UPI di Serang,86282.0,PGPAUD Kampus Serang (S1),6659492.0,Laki-laki,43,80.0,25.0,0.0,2.0,,0.0,1.0,,0.0,3.0,,0.0,0.0,0.0,13.0,160.0,5.0,0.0,0.0,0.0
 198911062019032014,"Fitri Alfarisa, S.Pd., M.Pd.",PNS,III/b,Tenaga Pengajar,S2,Kampus UPI di Serang,86286.0,PGSD Kampus Serang (S1),6691682.0,Perempuan,32,144.0,99.0,2.0,4.0,0.0,0.0,1.0,0.0,3.0,1.0,0.0,3.0,4.0,2.0,25.0,89.0,8.0,0.0,0.0,0.0
-197205121998022004,"Dr. Rina Heryani, S.Pd., M.Pd.",PNS,IV/b,Pembina Tk. I - IV/b,S3,FIP,,,,Perempuan,50,,,,,,,,,,,,,,,,,,,,
-196611081992031002,"Dr. Asep Mahfudz, M.Si.",PNS,IV/a,Pembina - IV/a,S3,FPIPS,,,,Laki-laki,55,,,,,,,,,,,,,,,,,,,,
-198207082005011001,"Dr. Asep Miftahuddin, M.A.B.",PNS,III/c,Penata - III/c,S3,FPEB,,,,Laki-laki,40,,,,,,,,,,,,,,,,,,,,
-197208132002121004,"Dr. Agus Mulyana, S.Pd., M.Pd.",PNS,III/b,Penata Muda Tk. I - III/b,S3,Kampus UPI di Cibiru,,,,Laki-laki,50,,,,,,,,,,,,,,,,,,,,
+197205121998022004,"Dr. Rina Heryani, S.Pd., M.Pd.",PNS,IV/b,Pembina Tk. I - IV/b,S3,FIP,86206.0,Pendidikan Guru Sekolah Dasar (S1),,Perempuan,50,,,,,,,,,,,,,,,,,,,,
+197208132002121004,"Dr. Agus Mulyana, S.Pd., M.Pd.",PNS,III/b,Penata Muda Tk. I - III/b,S3,Kampus UPI di Cibiru,86284.0,PGSD Kampus Cibiru (S1),,Laki-laki,50,,,,,,,,,,,,,,,,,,,,
 920200519500321101,"Prof. Dr. H. Sunaryo Kartadinata, M.Pd.",PT-P,,Guru Besar,S3,FIP,86001.0,Bimbingan Dan Konseling (S3),5990867.0,Laki-laki,72,521.0,232.0,2.0,16.0,,0.0,27.0,,1.0,1.0,,13.0,9.0,4.0,121.0,900.0,80.0,0.0,0.0,0.0
 920200919500802101,"Prof. Dr. Djam'an Satori, M.A.",PT-P,,Guru Besar,S3,FIP,86001.0,Bimbingan Dan Konseling (S3),5991840.0,Laki-laki,72,355.0,86.0,1.0,20.0,0.0,1.0,33.0,0.0,1.0,191.0,0.0,1.0,10.0,1.0,65.0,12773.0,59.0,0.0,0.0,0.0
 920171219900530201,"Mela Darmayanti, S.Pd., M.Pd.",PT,III/b,Asisten Ahli,S2,FIP,86206.0,Pendidikan Guru Sekolah Dasar (S1),6120443.0,Perempuan,32,65.0,48.0,0.0,2.0,,0.0,0.0,,0.0,2.0,,0.0,0.0,0.0,21.0,15.0,6.0,0.0,0.0,0.0
