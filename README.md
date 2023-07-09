@@ -11,6 +11,12 @@ Program ini bertujuan untuk menganalisis dan membuat visualisasi dari data profi
 - Python 3
 - nbconvert
 
+## Instalasi
+### Instalasi nbconvert (jika belum ada)
+```
+pip install nbconvert
+pip3 install nbconvert
+```
 <br>
  
 # Laporan SINTA 2023
@@ -25,3 +31,10 @@ Program ini bertujuan untuk menganalisis dan membuat visualisasi dari data profi
 - Anaconda 3 (Jupyter Notebook atau Jupyter Lab)
 - Python 3
 - nbconvert
+
+## Instalasi
+### Instalasi nbconvert (jika belum ada)
+```
+pip install nbconvert
+pip3 install nbconvert
+```
