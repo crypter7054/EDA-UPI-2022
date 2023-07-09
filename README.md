@@ -9,6 +9,7 @@
 ## Prerequisites
 - Anaconda 3 (Jupyter Notebook atau Jupyter Lab)
 - Python 3
+- nbconvert
 
 <br>
 <br>
@@ -24,3 +25,4 @@
 ## Prerequisites
 - Anaconda 3 (Jupyter Notebook atau Jupyter Lab)
 - Python 3
+- nbconvert
