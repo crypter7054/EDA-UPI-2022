@@ -13,10 +13,10 @@ Program ini bertujuan untuk menganalisis dan membuat visualisasi dari data profi
 
 <br>
  
-# Laporan Profil Dosen UPI 2023
+# Laporan SINTA 2023
 
 ## Dokumentasi Program
-[Dokumentasi Laporan Profil Dosen UPI 2023](https://docs.google.com/document/d/1Wu5CvJ9ejQiu2Ynm-UZ6QUoUn_ADnBa_cGepRZn88jY/edit?usp=sharing)
+[Dokumentasi Laporan SINTA 2023](https://docs.google.com/document/d/1Wu5CvJ9ejQiu2Ynm-UZ6QUoUn_ADnBa_cGepRZn88jY/edit?usp=sharing)
 
 ## Deskripsi Program
 
