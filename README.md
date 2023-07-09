@@ -12,7 +12,6 @@ Program ini bertujuan untuk menganalisis dan membuat visualisasi dari data profi
 - nbconvert
 
 <br>
-<br>
  
 # Laporan Profil Dosen UPI 2023
 
